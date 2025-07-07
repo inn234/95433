@@ -38,4 +38,4 @@ SOD轻量版（Soft-On）
 
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/inn234/95433 ）</span>
